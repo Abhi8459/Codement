@@ -17,9 +17,13 @@ Read more about object detection model used, working of the algorithm, and devel
 
 
 Vehicle Detection Module Output Image: 
+
+
 ![vehicle-detection](https://github.com/Abhi8459/Codement/assets/124365954/60ca336f-2ac0-479f-a32b-30386ee079a2)
 
 Images of the final simulation: 
+
+
 ![Screenshot 2024-04-07 101036](https://github.com/Abhi8459/Codement/assets/124365954/678a1679-cae8-4d17-b1cc-41f060b17bf4)
 
 
